@@ -1,0 +1,103 @@
+html {
+	font-family: 'Trebuchet MS', sans-serif;
+	text-align: center;
+	height: 100%;
+	margin: 28px;
+	width: 100%;
+	margin-top: 0;
+	margin-left: 0;
+}
+
+header {
+	margin-right: 100px;
+	border: 5px solid black;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 14px;
+	display: inline-block;
+	text-align: center;
+	box-shadow: 1px 2px 4px #000;
+
+}
+
+h1 {
+	font-family: 'Trebuchet MS', sans-serif;
+	text-align: center;
+	display: inline;
+	margin-top: 10px;
+	color: hsla(195, 100%, 46%, 0.75);
+	text-shadow: 1px 1px 2px #102010;
+	text-decoration: underline;
+
+}
+
+h2 {
+	margin-left: 700px;
+	margin-right: 700px;
+}
+
+h3 {
+	margin-top: 38px;
+	max-width: 2000px;
+	text-decoration: underline;
+	text-align: center;
+
+}
+
+body {
+	margin-bottom: 70px;
+	
+}
+
+p {
+	max-width: 700px;
+	margin-left: 500px;
+	margin-right: 500px;
+
+}
+
+.exp {
+    margin-top: 20px;
+}
+
+.vol {
+	margin-top: 70px;
+}
+
+.other {
+	margin-top: 70px;
+}
+
+.other2 {
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+
+.title {
+padding: 15px;
+margin-left: 100px;
+margin-right: 0;
+padding-right: 0;
+}
+
+.edit {
+padding: 50px;
+}
+
+.pic {
+	padding: 0;
+	padding-bottom: -5px;
+	margin: -150px;
+    transform: scale(0.6, 0.6);
+    float: left;
+    display: inline-block;
+    margin-right: -600px;
+    box-shadow: 0px 0 5px 6px #000;
+}
+
+html {
+	background-color: hsla(200, 100%, 80%, .5);
+	background-size: 435px 640px;
+	
+}
+
